@@ -19,6 +19,7 @@ It helps users organize, track, and manage daily tasks efficiently with a clean 
 - 📊 **Analytics Dashboard** (total, completed, pending tasks)
 - 📈 **Real-time Progress Bar**
 - 🔍 **Search & Filter Tasks**
+- ⏰ **Overdue Task Highlightin**
 - 🌙 **Dark Mode Support**
 - 📱 **Fully Responsive Design**
 - 💾 **Data Persistence using localStorage**
